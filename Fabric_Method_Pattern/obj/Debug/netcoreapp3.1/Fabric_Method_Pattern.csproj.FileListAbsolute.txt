@@ -1,0 +1,13 @@
+C:\Users\vopor\OneDrive\Документы\C#\Fabric_Method_Pattern\Fabric_Method_Pattern\bin\Debug\netcoreapp3.1\Fabric_Method_Pattern.exe
+C:\Users\vopor\OneDrive\Документы\C#\Fabric_Method_Pattern\Fabric_Method_Pattern\bin\Debug\netcoreapp3.1\Fabric_Method_Pattern.deps.json
+C:\Users\vopor\OneDrive\Документы\C#\Fabric_Method_Pattern\Fabric_Method_Pattern\bin\Debug\netcoreapp3.1\Fabric_Method_Pattern.runtimeconfig.json
+C:\Users\vopor\OneDrive\Документы\C#\Fabric_Method_Pattern\Fabric_Method_Pattern\bin\Debug\netcoreapp3.1\Fabric_Method_Pattern.runtimeconfig.dev.json
+C:\Users\vopor\OneDrive\Документы\C#\Fabric_Method_Pattern\Fabric_Method_Pattern\bin\Debug\netcoreapp3.1\Fabric_Method_Pattern.dll
+C:\Users\vopor\OneDrive\Документы\C#\Fabric_Method_Pattern\Fabric_Method_Pattern\bin\Debug\netcoreapp3.1\Fabric_Method_Pattern.pdb
+C:\Users\vopor\OneDrive\Документы\C#\Fabric_Method_Pattern\Fabric_Method_Pattern\obj\Debug\netcoreapp3.1\Fabric_Method_Pattern.csprojAssemblyReference.cache
+C:\Users\vopor\OneDrive\Документы\C#\Fabric_Method_Pattern\Fabric_Method_Pattern\obj\Debug\netcoreapp3.1\Fabric_Method_Pattern.AssemblyInfoInputs.cache
+C:\Users\vopor\OneDrive\Документы\C#\Fabric_Method_Pattern\Fabric_Method_Pattern\obj\Debug\netcoreapp3.1\Fabric_Method_Pattern.AssemblyInfo.cs
+C:\Users\vopor\OneDrive\Документы\C#\Fabric_Method_Pattern\Fabric_Method_Pattern\obj\Debug\netcoreapp3.1\Fabric_Method_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\vopor\OneDrive\Документы\C#\Fabric_Method_Pattern\Fabric_Method_Pattern\obj\Debug\netcoreapp3.1\Fabric_Method_Pattern.dll
+C:\Users\vopor\OneDrive\Документы\C#\Fabric_Method_Pattern\Fabric_Method_Pattern\obj\Debug\netcoreapp3.1\Fabric_Method_Pattern.pdb
+C:\Users\vopor\OneDrive\Документы\C#\Fabric_Method_Pattern\Fabric_Method_Pattern\obj\Debug\netcoreapp3.1\Fabric_Method_Pattern.genruntimeconfig.cache
